@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to the page of the INTERACT project.
+This organization is maintained by Saray, Andreu and Clarence. 
+If there are any issues, comments or questions, let us know via an issue!
 
 <!--
 
