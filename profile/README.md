@@ -1,6 +1,23 @@
 ## Welcome to the page of the INTERACT project.
+
+We are part of the project INTERACT (intuitive Interaction for Robots among Humans) of the Autonomus Multi-Robots Lab lead by Javier Alonso-Mora at the TU Delft, The Netherlands.
+Our vision is to create intuitive mapping, motion planning and task planning in multi-robot environments shared with humans. 
 This organization is maintained by Saray, Andreu and Clarence. 
 If there are any issues, comments or questions, let us know via an issue!
+
+<table>
+ <tr>
+  <td> One of our robots </td>
+  <td> An example environment </td>
+ </tr>
+ <tr>
+  <td> <img src="/.profile/dinova.jpg" width="250"/> </td>  
+  <td> <img src="/.profile/robot_bar.png" width="250"/> </td>
+ </tr>
+</table>
+
+
+
 
 <!--
 
