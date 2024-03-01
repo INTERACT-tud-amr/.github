@@ -7,7 +7,7 @@ Our vision is to create intuitive mapping, motion planning and task planning in 
 This organization is maintained by Saray, Andreu and Clarence. 
 If there are any issues, comments or questions, let us know via an issue!
 
-Check out our [groups website](https://autonomousrobots.nl/) and [github page](https://github.com/tud-amr) as well!
+Check out the [website of AMR](https://autonomousrobots.nl/) and [github page](https://github.com/tud-amr) as well!
 
 <table>
  <tr>
