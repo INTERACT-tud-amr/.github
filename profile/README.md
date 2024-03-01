@@ -11,8 +11,8 @@ If there are any issues, comments or questions, let us know via an issue!
   <td> An example environment </td>
  </tr>
  <tr>
-  <td> <img src="/.profile/dinova.jpg" width="250"/> </td>  
-  <td> <img src="/.profile/robot_bar.png" width="250"/> </td>
+  <td> <img src="/profile/dinova.jpg" width="250"/> </td>  
+  <td> <img src="/profile/robot_bar.png" width="250"/> </td>
  </tr>
 </table>
 
