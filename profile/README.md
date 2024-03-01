@@ -2,8 +2,12 @@
 
 We are part of the project INTERACT (intuitive Interaction for Robots among Humans) of the Autonomus Multi-Robots Lab lead by Javier Alonso-Mora at the TU Delft, The Netherlands.
 Our vision is to create intuitive mapping, motion planning and task planning in multi-robot environments shared with humans. 
+
+
 This organization is maintained by Saray, Andreu and Clarence. 
 If there are any issues, comments or questions, let us know via an issue!
+
+Check out our [groups website](https://autonomousrobots.nl/) and [github page](https://github.com/tud-amr) as well!
 
 <table>
  <tr>
